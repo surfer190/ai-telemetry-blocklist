@@ -1,3 +1,12 @@
+# Title: AI Tools Telemetry Blocklist
+# Description: Blocks telemetry, analytics, and tracking endpoints used by AI coding assistants and LLM tools.
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/surfer190/ai-telemetry-blocklist/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+# License: MIT
+# Last updated: 2026-11-19
+
 # GitHub Copilot
 0.0.0.0 copilot-telemetry.githubusercontent.com
 0.0.0.0 collector.github.com
